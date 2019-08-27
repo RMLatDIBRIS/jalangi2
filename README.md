@@ -1,3 +1,6 @@
+*This fork will be used to test whether new NPM package versions work with Jalangi, to fix security issues.
+The original repo is not active anymore.*
+
 Jalangi2
 =======
 ### Introduction
